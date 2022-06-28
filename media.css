@@ -1,0 +1,75 @@
+@media screen and (min-width: 576px){
+    .navbar-brand{
+        width: 40%;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .navbar-brand{
+        width: 30%;
+    }
+
+    #logo-footer{
+        width: 240px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    
+    .nav-link{
+        font-size: 12px;
+    }
+
+    #logo-footer{
+        width: 300px;
+        height: 50px;
+    }
+
+    #img-n1{
+        width: 80vh;
+        max-width: 460px;
+        max-height: 500px;
+    }
+
+    #img-n2{
+        width: 80vh;
+        max-width: 460px;
+        max-height: 500px;
+    }
+
+    #img-n3{
+        width: 80vh;
+        max-width: 460px;
+        max-height: 500px;
+    }
+
+    #img-n4{
+        width: 80vh;
+        max-width: 456px;
+        max-height: 500px;
+    }
+
+    #img-n5{
+        width: 80vh;
+        max-width: 460px;
+        max-height: 500px;
+    }
+
+    #img-n6{
+        width: 80vh;
+        max-width: 460px;
+        max-height: 500px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    
+    .nav-link{
+        font-size: 17px;   
+    }
+
+    #Card-container{
+        gap: 15px;
+    }
+
+}

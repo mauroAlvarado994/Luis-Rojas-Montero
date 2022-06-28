@@ -1,0 +1,101 @@
+/*****navbars**********/
+.navbar-brand{
+    width: 50%;
+}
+
+.navbar-brand img{
+   width: 100%;
+}
+
+/*********content***************/
+
+#inital-img {
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(assets/images/wallpaper.png);
+    
+}
+
+#Location{
+    color: white;
+}
+
+#telephone{
+    display: contents;
+}
+
+/***********nosotros****/
+#log{
+    max-width: 500px;
+}
+
+/*************nuestro trabajo***************/
+#NT-grid{
+    gap: 10px;
+}
+
+#img-n1{
+    height: 90vh;
+    width: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(assets/images/img-n1.jpg);
+}
+
+#img-n2{
+    height: 90vh;
+    width: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(assets/images/img-n2.jpg);
+}
+
+#img-n3{
+    height: 90vh;
+    width: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(assets/images/img-n3.jpg);
+}
+
+#img-n4{
+    height: 90vh;
+    width: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(assets/images/img-n4.jpg);
+}
+
+#img-n5{
+    height: 90vh;
+    width: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(assets/images/img-n5.jpg);
+}
+
+#img-n6{
+    height: 90vh;
+    width: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(assets/images/img-n6.jpg);
+}
+
+
+/*******************contacto******/
+
+#Contacto{
+    max-width: 540px;
+}
+
+/****************redes Sociales***/
+
