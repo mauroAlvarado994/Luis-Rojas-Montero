@@ -2,11 +2,19 @@
     .navbar-brand{
         width: 40%;
     }
+
+    #numer-phone{
+        gap: 10px;
+    }
 }
 
 @media screen and (min-width: 768px){
     .navbar-brand{
         width: 30%;
+    }
+
+    #numer-phone{
+        gap: 0;
     }
 
     #logo-footer{
