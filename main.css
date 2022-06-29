@@ -26,6 +26,10 @@
     display: contents;
 }
 
+#number{
+    font-size: 21px;
+}
+
 /***********nosotros****/
 #log{
     max-width: 500px;
