@@ -13,6 +13,10 @@
         width: 30%;
     }
 
+    #TORR{
+        font-size: 25px;
+    }
+
     #numer-phone{
         gap: 0;
     }
@@ -74,6 +78,14 @@
     
     .nav-link{
         font-size: 17px;   
+    }
+
+    #TORR{
+        font-size: 26px;
+    }
+    
+    #number{
+        font-size: 26px;
     }
 
     #Card-container{
