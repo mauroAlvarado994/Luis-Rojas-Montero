@@ -29,6 +29,10 @@
     #numer-phone{
         gap: 7px;
     }
+    
+    #years{
+        max-width: 670px;
+    }
 
     #logo-footer{
         width: 240px;
