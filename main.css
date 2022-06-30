@@ -22,8 +22,12 @@
     color: white;
 }
 
+#coah{
+    gap: 5px;
+}
+
 #numer-phone{
-    gap: 7px;
+    gap: 5px;
 }
 
 #telephone{
