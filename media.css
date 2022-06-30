@@ -3,8 +3,12 @@
         width: 40%;
     }
 
+    #loc{
+        gap: 9px;
+    }
+
     #numer-phone{
-        gap: 10px;
+        gap: 0px;
     }
 
 }
@@ -14,12 +18,16 @@
         width: 30%;
     }
 
+    #loc{
+        gap: 0px;
+    }
+
     #TORR{
         font-size: 25px;
     }
 
     #numer-phone{
-        gap: 0;
+        gap: 7px;
     }
 
     #logo-footer{
@@ -82,7 +90,7 @@
     }
 
     #TORR{
-        font-size: 26px;
+        font-size: 28px;
     }
     
     #number{
